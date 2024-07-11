@@ -1,0 +1,120 @@
+.body{ background-color: #ffffff;
+    font-family: "Montserrat", sans-serif; dimensiunea-optic-font: auto; font-weight: <greutate>; stil font: normal;}
+
+ .activity { 
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    margin-left: 500px; }
+
+ .d{ font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    margin-top: -10px;
+    margin-left: 250px;
+    color: #4489ff; }
+.about-me-title {
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-left: 200px; }  
+.description{
+     font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    margin-left: 100px;
+    line-height: 25px;
+margin-right: 100px;
+padding-left: 50px;
+padding-right: 50px; }
+ .Experience-title{  
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 10px;
+    margin-left: 200px; } 
+ .Pim-title{  
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 10px;
+    margin-left: 250px;  }  
+ .Pim-list{  
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    margin-left: 200px; }
+ 
+.Quality-title{ 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 10px;
+margin-left: 250px;  }
+.QA-list{ 
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    margin-left: 180px;
+    margin-right: 100px; }
+
+    .Projects {font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 30px;
+        margin-top: 10px;
+        margin-left: 250px;  }
+    .Project-item{ 
+        font-size: 10px
+        font-style: normal;
+        font-weight: normal;
+        line-height:20px;
+        margin-left: 250px;
+        margin-top: 20px;
+        color: #4489ff; }
+
+        .Education-title{
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 25px;
+            margin-top: 10px;
+            margin-left: 200px;
+         } 
+
+.ed-title{ font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+    margin-top:normal;
+    margin-left: 250px;}       
+
+.ed-subtitle{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    margin-top: -15px;
+    margin-left: 250px;
+ }
+
+ .image{ 
+    line-height: 30px;
+    margin-left: 250px ;
+margin-bottom: 30px;}
+
+  .description.link{ 
+    line-height: 30px;
+    margin-left: 250px ;
+margin-bottom: 30px;}
